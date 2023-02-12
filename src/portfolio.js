@@ -264,7 +264,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA etc.",
         "⚡ Apart from this, I have been part of organizing and discipline committee of techno cultural fest at university level.",
       ],
       website_link: "http://punjabiuniversity.ac.in",
