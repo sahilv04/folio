@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Sahil Verma",
-  logo_name: "SAHILVERMA",
+  logo_name: "SAHIL",
   nickname: "VERMA",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
