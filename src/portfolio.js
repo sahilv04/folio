@@ -260,8 +260,8 @@ const degrees = {
     {
       title: "Punjabi University, Patiala, India",
       subtitle: "B.Tech in Computer Engineering",
-      logo_path: "punjabi-uni.png",
-      alt_name: "IIITDM Kurnool",
+      logo_path: "Punjabi_University_Logo.png",
+      alt_name: "Punjabi University",
       duration: "2016 - 2020",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA etc.",
@@ -521,8 +521,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "London, United Kingdom",
+    subtitle: "London, United Kingdom",
     avatar_image_path: "address_image.svg",
     // location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
